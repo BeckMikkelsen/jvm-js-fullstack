@@ -1,8 +1,5 @@
-[![official JetBrains project](https://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
-
-# Full Stack JVM & JS App Hands-On Lab
-
-This repository is the code corresponding to the hands-on lab [Building a Full Stack Web App with Kotlin Multiplatform](https://play.kotlinlang.org/hands-on/Full%20Stack%20Web%20App%20with%20Kotlin%20Multiplatform/).
-
-**The master branch is to be used as a template. If you would like to see the completed project, check out the [final](https://github.com/kotlin-hands-on/jvm-js-fullstack/tree/final) branch.**
+Build a service in Java (using Spring Boot), Kotlin (using Spring Boot) or C# that exposes a REST
+interface with an in-mem DB and with an unpolished frontend built in React or Angular that is capable
+storing objects of some kind that can be submitted from the frontend. The service should be 
+containerized and runnable without use of any external services. Spend no more than a max of 
+15 hours on it.
