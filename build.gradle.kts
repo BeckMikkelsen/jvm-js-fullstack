@@ -13,6 +13,8 @@ plugins {
     kotlin("plugin.serialization") version "1.7.20-Beta"
 }
 
+
+
 group = "org.example"
 version = "1.0-SNAPSHOT"
 
